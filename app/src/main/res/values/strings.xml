@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Zakat Gold Calculator</string>
+    <string name="copyright">Copyright © 2025 Nurzahira</string>
+    <string name="developer_detail">DEVELOPER\'S DETAIL</string>
+    <string name="name">NAME: NURZAHIRA YUSRINA BINTI YA\'ACOB</string>
+    <string name="student_id">STUDENT ID: 2023298092</string>
+    <string name="group">GROUP: RCDCS2405C</string>
+    <string name="programme">PROGRAMME: CDCS240</string>
+    <string name="website">WEBSITE: https://github.com/zahirayusrina/ZakatGoldCalculator</string>
+    <string-array name="gold_types">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+</resources>

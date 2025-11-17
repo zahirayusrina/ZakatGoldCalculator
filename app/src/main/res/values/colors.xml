@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_primary">#4A148C</color>
+    <color name="purple_primary_dark">#1A0033</color>
+    <color name="purple_primary_light">#7C43BD</color>
+
+    <!-- Gold (Accent & Text) -->
+    <color name="gold">#F0B614</color>
+    <color name="gold_dark">#DFA41C</color>
+
+    <!-- Background & Surface -->
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary">#FF000000</color>
+    <color name="text_gold">#FFD700</color>
+</resources>
